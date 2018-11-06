@@ -10,6 +10,7 @@
    b. Header Styles
    c. About Section
    d. Resume Section
+   new. skill_new Section
    e. Portfolio Section
    f. Call To Action Section
    g. Testimonials Section
@@ -33,7 +34,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/california.png) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -66,14 +67,14 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #fff;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #F06000;
 }
 header .banner-text hr {
    width: 60%;
@@ -188,8 +189,8 @@ ul#nav li.current a { color: #F06000; }
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 50px;
+   padding-bottom: 25px;
    overflow: hidden;
 }
 
@@ -207,8 +208,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 110px;
+   height: 190px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -298,13 +299,13 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: #474545;
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #e05408;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -318,92 +319,204 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #e05408;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
+.Python {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: Python 2s ease;
+  	-webkit-animation: Python 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.jquery {
+.web {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: web 2s ease;
+  	-webkit-animation: web 2s ease;
+}
+.Java {
+  	width: 65%;
+  	-moz-animation: Java 2s ease;
+  	-webkit-animation: Java 2s ease;
+}
+.C {
+  	width: 65%;
+  	-moz-animation: C 2s ease;
+  	-webkit-animation: C 2s ease;
+}
+.Pytorch {
+  	width: 85%;
+  	-moz-animation: Pytorch 2s ease;
+  	-webkit-animation: Pytorch 2s ease;
+}
+.Tensorflow {
+  	width: 70%;
+  	-moz-animation: Tensorflow 2s ease;
+  	-webkit-animation: Tensorflow 2s ease;
+}
+.Keras {
+  	width: 50%;
+  	-moz-animation: Keras 2s ease;
+  	-webkit-animation: Keras 2s ease;
+}
+.Blender {
+  	width: 45%;
+  	-moz-animation: Blender 2s ease;
+  	-webkit-animation: Blender 2s ease;
+}
+.Unity {
+  	width: 30%;
+  	-moz-animation: Unity 2s ease;
+  	-webkit-animation: Unity 2s ease;
+}
+.Latex {
+  	width: 80%;
+  	-moz-animation: Latex 2s ease;
+  	-webkit-animation: Latex 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes css {
+@-moz-keyframes Python {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes web {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes Java {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-moz-keyframes C {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+
+@-moz-keyframes Pytorch {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes Tensorflow {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes Keras {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes Blender {
+  0%   { width: 0px;  }
+  100% { width: 45%;  }
+}
+@-moz-keyframes Unity {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes Latex {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
 
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+
+@-webkit-keyframes Python {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes web {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes Java {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes C {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes Pytorch {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes Tensorflow {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes Keras {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes Blender {
+  0%   { width: 0px;  }
+  100% { width: 45%;  }
+}
+@-webkit-keyframes Unity {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-webkit-keyframes Latex {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+/* ------------------------------------------------------------------ */
+/* new. skill_new Section
+/* ------------------------------------------------------------------ */
+
+#skill_new {
+    padding-top: 110px;
+   /* background: #1F1F1F url(../images/sakura.jpg) no-repeat center center;*/
+   /*background: #303030;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   background-attachment: fixed;
+
+   position: relative;
+   min-height: 200px;
+   width: 100%;
+   overflow: hidden;*/
+}
+
+#skill_new a, #skill_new a:visited  { color: #11ABB0; }
+#skill_new a:hover, #skill_new a:focus { color: #313131; }
+
+#skill_new h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+        color: #e05408;
+}
+#skill_new h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#skill_new h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+
+}
+
+#skill_new .header-col { padding-top: 9px; }
+#skill_new .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#skill_new .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#skill_new .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#skill_new .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
 }
 
 /* ------------------------------------------------------------------ */
