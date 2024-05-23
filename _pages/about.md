@@ -8,6 +8,7 @@ redirect_from:
 ---
  
 Hello! I am an incoming Research Scientist at Netflix in the US, specializing in 3D computer vision and graphics. Prior to joining Netflix, I earned my PhD under the supervision of Prof. Dr. Christian Theobalt at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany. My doctoral research focused on 3D human motion capture and synthesis, integrating explicit physics and interaction modeling.
+Contact: <img src="./figures/email.png" alt="" style="max-width: 23%;">
 <hr> 
 <br>
 
