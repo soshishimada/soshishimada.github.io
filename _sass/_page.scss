@@ -275,8 +275,12 @@
     color: $link-color-hover;
   }
 }
-
-
+ 
+hr {
+  border: none;
+  height: 1px; /* Adjust the height to make it thicker */
+  background-color: rgb(169, 168, 168); /* You can change the color if desired */
+} 
 /*
    Comments
    ========================================================================== */

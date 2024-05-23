@@ -6,12 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ 
+Hello! I am an incoming Research Scientist at Netflix in the US, specializing in 3D computer vision and graphics. Prior to joining Netflix, I earned my PhD under the supervision of Prof. Dr. Christian Theobalt at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany. My doctoral research focused on 3D human motion capture and synthesis, integrating explicit physics and interaction modeling.
+<hr> 
+<br>
 
-Hello! I am a Research Scientist at Netflix in the US, specializing in 3D computer vision and graphics. Prior to joining Netflix, I earned my PhD under the supervision of Prof. Dr. Christian Theobalt at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany. My doctoral research focused on 3D human motion capture and synthesis, integrating explicit physics and interaction modeling.
- <br>
- <br>
- <br>
- <br> 
+Publications
+======
+
+Click [here](http://soshishimada.github.io/publications/) for the publication list!
+<br>
+<br> 
 
 Experiences
 ======
@@ -21,7 +26,7 @@ Experiences
   </div>
   <div style="flex: 2; margin-left: 20px;">
     <span>Jun 2024 - Current:<br />
-    Research Scientist at Netflix, US <br />
+    Research Scientist at Netflix, U.S. <br />
     </span>
   </div>
 </div>
@@ -71,5 +76,21 @@ Talks
 * Physics-based Human Motion Capture, [Snap Research](https://research.snap.com/), US 2021
 
 * Integration of Explicit Physics into Motion Capture Pipeline, [Peking University](https://english.pku.edu.cn/), China 2021
- 
+
+Awards & Honors
+====== 
+* Best paper finalist at CVPR 2022
+
+* Best student paper at 3DV 2022
+
+* Scholarship grant from German Academic Exchange Service (DAAD), 2017
+
+* Scholarship grant from Waseda University (Azusa Ono Memorial
+Scholarship), 2011
+
+
+Reviewer Experience
+====== 
+
+ACM TOG, SIGGRAPH, SIGGRAPH Asia, CVPR, ECCV, TPAMI, CG Forum, 3DV, TVCG, IROS 
  

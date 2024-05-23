@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Soshi Shimada"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist at Netflix"
-  location         : "California,US"
+  bio              : "incoming Research Scientist at Netflix"
+  location         : "California, U.S."
   #employer         : #"Red Brick University"
   uri              : # URL
   email            : "soratobtai@gmail.com" 
@@ -206,9 +206,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  resume:
-    output: true
-    permalink: /:collection/:path/
+  #resume:
+  #  output: true
+  #  permalink: /:collection/:path/
   #talks:
   #  output: true
   #  permalink: /:collection/:path/
