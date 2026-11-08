@@ -6,8 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
-Hello! I am a Machine Learning Research Scientist at Netflix in the US. My research interests span digital humans, generative AI, and 3D vision and graphics. Specifically, I have worked on 3D human motion capture, human animation generation with environment interactions, face animation and editing, production-quality DiT-based image and video generation/editing models, and large-model distillation. I also have extensive experience in large-scale dataset generation, model training/eval, and deployment.  Prior to joining Netflix, I earned my PhD under the supervision of Prof. Dr. Christian Theobalt, and co-advised by [Dr. Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany. My doctoral research focused on 3D human motion capture and synthesis, integrating explicit physics and interaction modeling.
+
+Hello! I am a Senior Machine Learning Research Scientist at Netflix in the US. My research spans image and video generation and editing, digital humans, and 3D vision and graphics, with a focus on VFX applications. 
+
+My work includes large-scale DiT-based model development, mid-training and post-training, real-time image editing models built from scratch, and distillation for faster inference. I also work on digital face animation, editing, and identity swapping. I work end-to-end across data collection, annotation, filtering, agent-driven dataset generation, and model training, evaluation, and deployment.
+
+Prior to joining Netflix, I completed my PhD under the supervision of Prof. Dr. Christian Theobalt and co-supervision of [Dr. Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany, graduating summa cum laude. My doctoral research focused on physics-based monocular 3D human motion capture and animation synthesis with environment interactions, as well as non-rigid deformation capture for hand–face interactions.
+
 
 Contact: <img src="./figures/email.png" alt="" style="max-width: 35%;">
 <hr> 
