@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a Senior Machine Learning Research Scientist at Netflix in the US. My research spans image and video generation and editing, digital humans, and 3D vision and graphics, with a focus on VFX applications. 
 
-My work includes large-scale DiT-based model development, mid-training and post-training, real-time image editing models built from scratch, and distillation for faster inference. I also work on digital face animation, editing, and identity swapping. I work end-to-end across data collection, annotation, filtering, agent-driven dataset generation, and model training, evaluation, and deployment.
+My work includes large-scale DiT-based image and video generation model development, mid-training and post-training, real-time image editing models built from scratch, and distillation for faster inference. I also work on digital face animation, editing, and identity swapping. I work end-to-end across data collection, annotation, filtering, agent-driven dataset generation, and model training, evaluation, and deployment.
 
 Prior to joining Netflix, I completed my PhD under the supervision of Prof. Dr. Christian Theobalt and co-supervision of [Dr. Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) in Germany, graduating summa cum laude. My doctoral research focused on physics-based monocular 3D human motion capture and animation synthesis with environment interactions, as well as non-rigid deformation capture for hand–face interactions.
 
